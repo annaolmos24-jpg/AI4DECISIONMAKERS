@@ -2,6 +2,8 @@
 
 Nov 17, 2026
 
+Full agent definitions (system prompts) for all 28 roles are in [agents/](agents/README.md).
+
 ## Executive summary
 
 A GES acquisition program needs 28 expert roles across six tiers. Eight of them are enough for a first working version. Each role is written so it can become an AI agent with one shared prompt template and one shared output format.
